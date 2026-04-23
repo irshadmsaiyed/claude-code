@@ -1,0 +1,1617 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - generic [ref=e2]:
+      - generic [ref=e6]:
+        - iframe [ref=e9]:
+          - generic [active] [ref=f54e1]:
+            - iframe [ref=f54e5]:
+              
+            - iframe
+        - generic [ref=e10]:
+          - generic [ref=e11]: Advertisement
+          - generic [ref=e13] [cursor=pointer]: Ad Feedback
+        - iframe [ref=e14]:
+          
+      - navigation [ref=e15]:
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - button "Open Menu Icon" [ref=e20]:
+                - img [ref=e21]
+              - link "CNN logo" [ref=e24] [cursor=pointer]:
+                - /url: https://edition.cnn.com
+                - img [ref=e26]
+              - navigation [ref=e29]:
+                - generic [ref=e30]:
+                  - link "US" [ref=e32] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/us
+                  - link "World" [ref=e34] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world
+                  - link "Politics" [ref=e36] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/politics
+                  - link "Business" [ref=e38] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business
+                  - link "Health" [ref=e40] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health
+                  - generic [ref=e42] [cursor=pointer]: More
+            - generic [ref=e43]:
+              - link "Watch" [ref=e44] [cursor=pointer]:
+                - /url: https://edition.cnn.com/watch
+              - link "Listen" [ref=e45] [cursor=pointer]:
+                - /url: https://edition.cnn.com/audio
+              - button "Search Icon" [ref=e46]:
+                - img [ref=e47]
+              - navigation "User Account Nav" [ref=e50]:
+                - link "User Account Log In Button" [ref=e52] [cursor=pointer]: Sign in
+          - separator [ref=e53]
+  - generic [ref=e54]:
+    - main [ref=e57]:
+      - generic [ref=e61]:
+        - list [ref=e68]:
+          - listitem [ref=e69]:
+            - link "Zelensky’s interview with CNN |" [ref=e70] [cursor=pointer]:
+              - /url: /2026/04/22/tv/video/amanpour-volodymyr-zelensky-ukraine-war
+              - generic [ref=e71]:
+                - generic [ref=e72]: Zelensky’s interview with CNN
+                - text: "|"
+          - listitem [ref=e73]:
+            - link "Journalist killed in Lebanon |" [ref=e74] [cursor=pointer]:
+              - /url: /2026/04/22/middleeast/lebanon-israel-journalist-killed-amal-khalil-latam-intl
+              - generic [ref=e75]:
+                - generic [ref=e76]: Journalist killed in Lebanon
+                - text: "|"
+          - listitem [ref=e77]:
+            - link "Tap water toxin |" [ref=e78] [cursor=pointer]:
+              - /url: /2026/04/23/health/nitrates-tap-water-toxin-wellness
+              - generic [ref=e79]:
+                - generic [ref=e80]: Tap water toxin
+                - text: "|"
+          - listitem [ref=e81]:
+            - link "New Michael Jackson biopic |" [ref=e82] [cursor=pointer]:
+              - /url: /2026/04/22/entertainment/michael-jackson-biopic
+              - generic [ref=e83]:
+                - generic [ref=e84]: New Michael Jackson biopic
+                - text: "|"
+          - listitem [ref=e85]:
+            - link "Meet the hottest new Asian girl group |" [ref=e86] [cursor=pointer]:
+              - /url: /2026/04/22/world/video/indonesian-girl-group-no-na-yeung-digvid-vrtc
+              - generic [ref=e87]:
+                - generic [ref=e88]: Meet the hottest new Asian girl group
+                - text: "|"
+          - listitem [ref=e89]:
+            - link "High-fashion diaper" [ref=e90] [cursor=pointer]:
+              - /url: /2026/04/22/style/rihanna-wmag-rocki-dior-diaper-lotw
+              - generic [ref=e92]: High-fashion diaper
+        - generic [ref=e96]:
+          - generic [ref=e99]:
+            - list [ref=e103]:
+              - listitem [ref=e104]:
+                - link "Ukraine's President Volodymyr Zelenskiy poses in Kyiv, Ukraine on March 25, 2026." [ref=e105] [cursor=pointer]:
+                  - /url: /2026/04/22/world/zelensky-interview-iran-war-intl
+                  - generic [ref=e107]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Ukraine's President Volodymyr Zelenskiy poses in Kyiv, Ukraine on March 25, 2026."
+                - link "Ukraine cannot wait until after war in Iran is over, Zelensky says" [ref=e108] [cursor=pointer]:
+                  - /url: /2026/04/22/world/zelensky-interview-iran-war-intl
+                  - generic [ref=e110]: Ukraine cannot wait until after war in Iran is over, Zelensky says
+              - listitem [ref=e111]:
+                - link "Druzhba pipeline restarts Russian oil flows to Europe, unblocking £105B EU loan for Kyiv" [ref=e112] [cursor=pointer]:
+                  - /url: /2026/04/22/europe/druzhba-ukraine-pipeline-restarts-intl
+                  - generic [ref=e114]: Druzhba pipeline restarts Russian oil flows to Europe, unblocking £105B EU loan for Kyiv
+            - list [ref=e118]:
+              - listitem [ref=e119]:
+                - link "Lebanese journalist Amal Khalil, who works for the daily Al-Akhbar newspaper, reports near a destroyed bridge in Qasmiyeh, Lebanon, Sunday, March 22, 2026." [ref=e120] [cursor=pointer]:
+                  - /url: /2026/04/22/middleeast/lebanon-israel-journalist-killed-amal-khalil-latam-intl
+                  - generic [ref=e122]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Lebanese journalist Amal Khalil, who works for the daily Al-Akhbar newspaper, reports near a destroyed bridge in Qasmiyeh, Lebanon, Sunday, March 22, 2026."
+                - link "Lebanese PM accuses Israel of war crimes after strike kills journalist" [ref=e123] [cursor=pointer]:
+                  - /url: /2026/04/22/middleeast/lebanon-israel-journalist-killed-amal-khalil-latam-intl
+                  - generic [ref=e125]: Lebanese PM accuses Israel of war crimes after strike kills journalist
+            - list [ref=e129]:
+              - listitem [ref=e130]:
+                - link [ref=e131] [cursor=pointer]:
+                  - /url: /2026/04/22/us/epstein-files-sex-trafficking-allegations-invs
+                - link "Epstein victims say they were trafficked to other men, raising doubts about investigations" [ref=e134] [cursor=pointer]:
+                  - /url: /2026/04/22/us/epstein-files-sex-trafficking-allegations-invs
+                  - generic [ref=e136]: Epstein victims say they were trafficked to other men, raising doubts about investigations
+          - generic [ref=e139]:
+            - generic [ref=e140]:
+              - link "Trump claims Iran’s regime is fractured. The reality is more complicated" [ref=e142] [cursor=pointer]:
+                - /url: /2026/04/22/middleeast/iran-war-leadership-cohesive-intl-latam
+                - heading "Trump claims Iran’s regime is fractured. The reality is more complicated" [level=2] [ref=e143]
+              - generic [ref=e147]:
+                - link "Commuters make their way past a giant billboard of slain Iranian supreme leader Ayatollah Ali Khamenei at the Valiasr Square in Tehran on April 19, 2026. The strategic Strait of Hormuz was again closed on April 19 in the stand-off between Iran and the United States, with Iran's powerful parliament speaker signalling a final peace deal remained \"far\" off despite some movement in negotiations." [ref=e148] [cursor=pointer]:
+                  - /url: /2026/04/22/middleeast/iran-war-leadership-cohesive-intl-latam
+                  - generic [ref=e150]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Commuters make their way past a giant billboard of slain Iranian supreme leader Ayatollah Ali Khamenei at the Valiasr Square in Tehran on April 19, 2026. The strategic Strait of Hormuz was again closed on April 19 in the stand-off between Iran and the United States, with Iran's powerful parliament speaker signalling a final peace deal remained \"far\" off despite some movement in negotiations."
+                - link "Iran’s wartime structure differs sharply from the way the country was governed for the past 37 years" [ref=e151] [cursor=pointer]:
+                  - /url: /2026/04/22/middleeast/iran-war-leadership-cohesive-intl-latam
+                  - generic [ref=e153]: Iran’s wartime structure differs sharply from the way the country was governed for the past 37 years
+            - list [ref=e157]:
+              - listitem [ref=e158]:
+                - 'link "Live Updates : Trump says ‘no time frame’ on war as blockade standoff stalls talks" [ref=e159] [cursor=pointer]':
+                  - /url: /2026/04/23/world/live-news/iran-war-trump-blockade-israel-lebanon
+                  - generic [ref=e161]:
+                    - generic [ref=e162]: "Live Updates :"
+                    - text: Trump says ‘no time frame’ on war as blockade standoff stalls talks
+              - listitem [ref=e163]:
+                - link "US Navy Secretary Phelan fired as naval blockade of Iran continues" [ref=e164] [cursor=pointer]:
+                  - /url: /2026/04/22/politics/john-phelan-navy-secretary-leaving
+                  - generic [ref=e166]: US Navy Secretary Phelan fired as naval blockade of Iran continues
+              - listitem [ref=e167]:
+                - 'link "Analysis: The significance of Trump’s bluffs on Iran" [ref=e168] [cursor=pointer]':
+                  - /url: /2026/04/22/politics/deadlines-iran-war-trump
+                  - generic [ref=e170]:
+                    - generic [ref=e171]: "Analysis:"
+                    - text: The significance of Trump’s bluffs on Iran
+            - list [ref=e175]:
+              - listitem [ref=e176]:
+                - link "119048_iran container raid Clean.00_00_22_08.Still003.png" [ref=e177] [cursor=pointer]:
+                  - /url: /2026/04/23/world/video/iran-strait-of-hormuz-cargo-ships-vrtc
+                  - generic [ref=e179]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119048_iran container raid Clean.00_00_22_08.Still003.png"
+                - link "Video purportedly shows Iranian soldiers seizing ships in Strait of Hormuz 0:57" [ref=e180] [cursor=pointer]:
+                  - /url: /2026/04/23/world/video/iran-strait-of-hormuz-cargo-ships-vrtc
+                  - generic [ref=e182]:
+                    - text: Video purportedly shows Iranian soldiers seizing ships in Strait of Hormuz
+                    - generic [ref=e183]: 0:57
+              - listitem [ref=e185]:
+                - link "Gas prices are displayed at a Chevron gas station, in downtown Los Angeles, on March 31." [ref=e186] [cursor=pointer]:
+                  - /url: /2026/04/23/politics/why-the-trump-teams-arcane-economic-theory-wont-play-at-the-gas-pumps
+                  - generic [ref=e188]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Gas prices are displayed at a Chevron gas station, in downtown Los Angeles, on March 31."
+                - 'link "Analysis: Why the Trump team’s economic theory won’t play at the gas pumps" [ref=e189] [cursor=pointer]':
+                  - /url: /2026/04/23/politics/why-the-trump-teams-arcane-economic-theory-wont-play-at-the-gas-pumps
+                  - generic [ref=e191]:
+                    - generic [ref=e192]: "Analysis:"
+                    - text: Why the Trump team’s economic theory won’t play at the gas pumps
+              - listitem [ref=e193]:
+                - link [ref=e194] [cursor=pointer]:
+                  - /url: /2026/04/22/world/video/iran-paradesapparent-ballistic-missile-in-tehran-vrtc
+                - link "Iran parades apparent ballistic missile in Tehran 0:29" [ref=e197] [cursor=pointer]:
+                  - /url: /2026/04/22/world/video/iran-paradesapparent-ballistic-missile-in-tehran-vrtc
+                  - generic [ref=e199]:
+                    - text: Iran parades apparent ballistic missile in Tehran
+                    - generic [ref=e200]: 0:29
+          - generic [ref=e204]:
+            - list [ref=e208]:
+              - listitem [ref=e209]:
+                - generic [ref=e218]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - link "Catch up on today’s global news" [ref=e219] [cursor=pointer]:
+                  - /url: /videos/fast/cnni-fast
+                  - generic [ref=e221]: Catch up on today’s global news
+            - list [ref=e225]:
+              - listitem [ref=e226]:
+                - link "Ethiopian Airlines, Africa's largest carrier, is leading the project after outgrowing its current base at Bole Airport. Bishoftu will become their new base, with the ambition to make it the continent's hub for connecting passengers and freight." [ref=e227] [cursor=pointer]:
+                  - /url: /travel/africas-biggest-airport-is-being-built-in-ethiopia-for-usd12-5-billion-spc
+                  - generic [ref=e229]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Ethiopian Airlines, Africa's largest carrier, is leading the project after outgrowing its current base at Bole Airport. Bishoftu will become their new base, with the ambition to make it the continent's hub for connecting passengers and freight."
+                - link "Africa’s biggest airport is being built in Ethiopia for $12.5 billion" [ref=e230] [cursor=pointer]:
+                  - /url: /travel/africas-biggest-airport-is-being-built-in-ethiopia-for-usd12-5-billion-spc
+                  - generic [ref=e232]: Africa’s biggest airport is being built in Ethiopia for $12.5 billion
+              - listitem [ref=e233]:
+                - link [ref=e234] [cursor=pointer]:
+                  - /url: /2026/04/23/business/video/spotify-20th-anniversary-spc-digvid
+                - link "The highs and lows of Spotify’s first 20 years 1:29" [ref=e237] [cursor=pointer]:
+                  - /url: /2026/04/23/business/video/spotify-20th-anniversary-spc-digvid
+                  - generic [ref=e239]:
+                    - text: The highs and lows of Spotify’s first 20 years
+                    - generic [ref=e240]: 1:29
+              - listitem [ref=e242]:
+                - link "Spanish archaeologists conducted a survey in the waters of the Bay of Algeciras, or Bay of Gibraltar, between May 2020 and March 2023." [ref=e243] [cursor=pointer]:
+                  - /url: /2026/04/22/science/shipwrecks-algeciras-gibraltar-intl-scli
+                  - generic [ref=e245]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Spanish archaeologists conducted a survey in the waters of the Bay of Algeciras, or Bay of Gibraltar, between May 2020 and March 2023."
+                - link "Archaeologists find ‘unseen shipwrecks’ in Strait of Gibraltar" [ref=e246] [cursor=pointer]:
+                  - /url: /2026/04/22/science/shipwrecks-algeciras-gibraltar-intl-scli
+                  - generic [ref=e248]: Archaeologists find ‘unseen shipwrecks’ in Strait of Gibraltar
+            - list [ref=e252]:
+              - listitem [ref=e253]:
+                - link "119025_CLEAN_ClareSolovyovVsMeloni_V3VRTC.00_00_20_24.Still002.jpg 1:24" [ref=e254] [cursor=pointer]:
+                  - /url: /2026/04/22/world/video/russian-tv-host-sparks-diplomatic-incident-vrtc
+                  - generic [ref=e256]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119025_CLEAN_ClareSolovyovVsMeloni_V3VRTC.00_00_20_24.Still002.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 1:24
+                - link "Russian TV host sparks diplomatic incident" [ref=e257] [cursor=pointer]:
+                  - /url: /2026/04/22/world/video/russian-tv-host-sparks-diplomatic-incident-vrtc
+                  - generic [ref=e259]: Russian TV host sparks diplomatic incident
+        - generic [ref=e264]:
+          - generic [ref=e268]:
+            - heading "More top stories" [level=2] [ref=e270]
+            - list [ref=e273]:
+              - listitem [ref=e274]:
+                - link "South Korean Air Force F-15K fighter jets pictured at a base in Gunsan, South Korea." [ref=e275] [cursor=pointer]:
+                  - /url: /2026/04/23/asia/south-korea-fighter-jet-selfies-scli-intl
+                  - generic [ref=e277]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "South Korean Air Force F-15K fighter jets pictured at a base in Gunsan, South Korea."
+                - link "South Korea’s air force apologizes after picture-taking pilots caused fighter jet collision" [ref=e278] [cursor=pointer]:
+                  - /url: /2026/04/23/asia/south-korea-fighter-jet-selfies-scli-intl
+                  - generic [ref=e280]: South Korea’s air force apologizes after picture-taking pilots caused fighter jet collision
+              - listitem [ref=e281]:
+                - link "Remains of 3 children found in Memphis woods may have been there several years, police say" [ref=e282] [cursor=pointer]:
+                  - /url: /2026/04/23/us/child-remains-found-memphis-woods-hnk
+                  - generic [ref=e284]: Remains of 3 children found in Memphis woods may have been there several years, police say
+              - listitem [ref=e285]:
+                - link "Senate takes key step toward funding ICE and border patrol with only GOP votes" [ref=e286] [cursor=pointer]:
+                  - /url: /2026/04/23/politics/senate-ice-funding-vote-a-rama
+                  - generic [ref=e288]: Senate takes key step toward funding ICE and border patrol with only GOP votes
+              - listitem [ref=e289]:
+                - link "There are fixes for AI’s toll on the power grid. Here’s why they’re not happening" [ref=e290] [cursor=pointer]:
+                  - /url: /2026/04/23/business/ai-compute-power-electricity-grid
+                  - generic [ref=e292]: There are fixes for AI’s toll on the power grid. Here’s why they’re not happening
+              - listitem [ref=e293]:
+                - link "Survivor of Hong Kong fire returns to charred home 2:39" [ref=e294] [cursor=pointer]:
+                  - /url: /2026/04/23/world/video/hong-kong-fire-return-digvid
+                  - generic [ref=e296]:
+                    - text: Survivor of Hong Kong fire returns to charred home
+                    - generic [ref=e297]: 2:39
+              - listitem [ref=e299]:
+                - link "Trump team pivoting to anti-Democrat messaging for the midterms" [ref=e300] [cursor=pointer]:
+                  - /url: /2026/04/22/politics/midterm-strategy-trump-democrats
+                  - generic [ref=e302]: Trump team pivoting to anti-Democrat messaging for the midterms
+              - listitem [ref=e303]:
+                - link "Takeaways from the first California governor’s debate since Swalwell’s exit" [ref=e304] [cursor=pointer]:
+                  - /url: /2026/04/23/politics/california-governors-debate-takeaways
+                  - generic [ref=e306]: Takeaways from the first California governor’s debate since Swalwell’s exit
+          - generic [ref=e309]:
+            - generic [ref=e310]:
+              - heading "Style" [level=2] [ref=e312]
+              - generic [ref=e316]:
+                - link "Jeffrey Uslip, Alma Allen and Jenni Parido" [ref=e317] [cursor=pointer]:
+                  - /url: /2026/04/23/style/venice-biennale-us-pavillion
+                  - generic [ref=e319]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Jeffrey Uslip, Alma Allen and Jenni Parido"
+                - link "At the ‘art world Olympics,’ Team USA is chaotic" [ref=e320] [cursor=pointer]:
+                  - /url: /2026/04/23/style/venice-biennale-us-pavillion
+                  - generic [ref=e322]: At the ‘art world Olympics,’ Team USA is chaotic
+            - list [ref=e326]:
+              - listitem [ref=e327]:
+                - link "PUWA11947_WW26_BAIGNOIRE_24x30_RVB.jpg" [ref=e328] [cursor=pointer]:
+                  - /url: /2026/04/17/style/watches-and-wonders-best-timepieces-women
+                  - generic [ref=e330]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "PUWA11947_WW26_BAIGNOIRE_24x30_RVB.jpg"
+                - link "The 5 most covetable women’s watches in 2026" [ref=e331] [cursor=pointer]:
+                  - /url: /2026/04/17/style/watches-and-wonders-best-timepieces-women
+                  - generic [ref=e333]: The 5 most covetable women’s watches in 2026
+              - listitem [ref=e334]:
+                - link "0326.cover.r.hr.rgb-1-crop.jpg" [ref=e335] [cursor=pointer]:
+                  - /url: /2026/04/22/style/rihanna-wmag-rocki-dior-diaper-lotw
+                  - generic [ref=e337]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "0326.cover.r.hr.rgb-1-crop.jpg"
+                - 'link "Look of the week: Rihanna, baby Rocki and Dior’s first ever couture diaper" [ref=e338] [cursor=pointer]':
+                  - /url: /2026/04/22/style/rihanna-wmag-rocki-dior-diaper-lotw
+                  - generic [ref=e340]:
+                    - generic [ref=e341]: "Look of the week:"
+                    - text: Rihanna, baby Rocki and Dior’s first ever couture diaper
+          - generic [ref=e347]:
+            - heading "Health & wellness" [level=2] [ref=e349]
+            - list [ref=e352]:
+              - listitem [ref=e353]:
+                - link "Closeup of a woman rinsing a drinking glass in the sink as part of everyday chores. First on CNN" [ref=e354] [cursor=pointer]:
+                  - /url: /2026/04/23/health/nitrates-tap-water-toxin-wellness
+                  - generic [ref=e356]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Closeup of a woman rinsing a drinking glass in the sink as part of everyday chores."
+                      - generic:
+                        - generic:
+                          - generic: First on CNN
+                - 'link "Tap water toxin: ‘I remember when I could drink water from the faucet’" [ref=e357] [cursor=pointer]':
+                  - /url: /2026/04/23/health/nitrates-tap-water-toxin-wellness
+                  - generic [ref=e359]: ": Tap water toxin: ‘I remember when I could drink water from the faucet’"
+              - listitem [ref=e360]:
+                - link "A study on the benefits of Covid-19 vaccination was blocked from publication in the US Centers For Disease Control and Prevention's flagship journal, sources told CNN." [ref=e361] [cursor=pointer]:
+                  - /url: /2026/04/22/health/hhs-cdc-study-covid-19-vaccines
+                  - generic [ref=e363]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A study on the benefits of Covid-19 vaccination was blocked from publication in the US Centers For Disease Control and Prevention's flagship journal, sources told CNN."
+                - link "HHS rejects publication of study showing Covid-19 vaccines prevent hospitalizations, ER visits" [ref=e364] [cursor=pointer]:
+                  - /url: /2026/04/22/health/hhs-cdc-study-covid-19-vaccines
+                  - generic [ref=e366]: HHS rejects publication of study showing Covid-19 vaccines prevent hospitalizations, ER visits
+        - generic [ref=e371]:
+          - generic [ref=e375]:
+            - heading "Celebrities & Entertainment" [level=2] [ref=e377]
+            - generic [ref=e381]:
+              - link "Jaafar Jackson as Michael Jackson in Michael. Bruce Talamon/Lionsgate" [ref=e382] [cursor=pointer]:
+                - /url: /2026/04/22/entertainment/michael-jackson-biopic
+                - generic [ref=e384]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Jaafar Jackson as Michael Jackson in Michael."
+                    - generic:
+                      - generic: Bruce Talamon/Lionsgate
+              - link "The Michael Jackson biopic no one really asked for is here" [ref=e385] [cursor=pointer]:
+                - /url: /2026/04/22/entertainment/michael-jackson-biopic
+                - generic [ref=e387]: The Michael Jackson biopic no one really asked for is here
+          - generic [ref=e391]:
+            - heading "Sport" [level=2] [ref=e393]
+            - list [ref=e396]:
+              - listitem [ref=e397]:
+                - link "20260423-first-woman-football-coach-Marie-Louise-Eta-FINAL.jpg" [ref=e398] [cursor=pointer]:
+                  - /url: /2026/04/23/sport/marie-louise-eta-union-berlin-woman-coach-bundesliga
+                  - generic [ref=e400]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "20260423-first-woman-football-coach-Marie-Louise-Eta-FINAL.jpg"
+                - link "Hailed as a ‘football goddess’ by many, yet sexism, hate and misogyny remain for this soccer trailblazer" [ref=e401] [cursor=pointer]:
+                  - /url: /2026/04/23/sport/marie-louise-eta-union-berlin-woman-coach-bundesliga
+                  - generic [ref=e403]: Hailed as a ‘football goddess’ by many, yet sexism, hate and misogyny remain for this soccer trailblazer
+              - listitem [ref=e404]:
+                - 'link "MINNEAPOLIS, MINNESOTA - AUGUST 16: Head coach Mike Vrabel of the New England Patriots looks on against the Minnesota Vikings in the first quarter during the NFL Preseason 2025 game between New England Patriots and Minnesota Vikings at U.S. Bank Stadium on August 16, 2025 in Minneapolis, Minnesota. The Patriots defeated the Vikings 20-12. (Photo by David Berding/Getty Images)" [ref=e405] [cursor=pointer]':
+                  - /url: /2026/04/23/sport/mike-vrabel-counseling-patriots-russini
+                  - generic [ref=e407]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "MINNEAPOLIS, MINNESOTA - AUGUST 16: Head coach Mike Vrabel of the New England Patriots looks on against the Minnesota Vikings in the first quarter during the NFL Preseason 2025 game between New England Patriots and Minnesota Vikings at U.S. Bank Stadium on August 16, 2025 in Minneapolis, Minnesota. The Patriots defeated the Vikings 20-12. (Photo by David Berding/Getty Images)"'
+                - link "Patriots coach Mike Vrabel is seeking counseling and will miss Day 3 of the NFL draft, report says" [ref=e408] [cursor=pointer]:
+                  - /url: /2026/04/23/sport/mike-vrabel-counseling-patriots-russini
+                  - generic [ref=e410]: Patriots coach Mike Vrabel is seeking counseling and will miss Day 3 of the NFL draft, report says
+        - generic [ref=e415]:
+          - generic [ref=e419]:
+            - heading "More US politics" [level=2] [ref=e421]
+            - list [ref=e424]:
+              - listitem [ref=e425]:
+                - link "20260408-kash-patel-hockey-GFX.jpg" [ref=e426] [cursor=pointer]:
+                  - /url: /2026/04/23/politics/kash-patel-hockey-fan
+                  - generic [ref=e428]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "20260408-kash-patel-hockey-GFX.jpg"
+                - link "Inside Kash Patel’s life as a hockey playing, high school coaching, Olympic locker room partying sports fanatic" [ref=e429] [cursor=pointer]:
+                  - /url: /2026/04/23/politics/kash-patel-hockey-fan
+                  - generic [ref=e431]: Inside Kash Patel’s life as a hockey playing, high school coaching, Olympic locker room partying sports fanatic
+              - listitem [ref=e432]:
+                - link "Florida Gov. Ron DeSantis attends a conference in Miami, Florida, on April 7, 2026." [ref=e433] [cursor=pointer]:
+                  - /url: /2026/04/23/politics/florida-redistricting-virginia-referendum-ron-desantis
+                  - generic [ref=e435]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Florida Gov. Ron DeSantis attends a conference in Miami, Florida, on April 7, 2026."
+                - link "Republicans pressure Ron DeSantis to redistrict in Florida after Virginia Democrats’ win" [ref=e436] [cursor=pointer]:
+                  - /url: /2026/04/23/politics/florida-redistricting-virginia-referendum-ron-desantis
+                  - generic [ref=e438]: Republicans pressure Ron DeSantis to redistrict in Florida after Virginia Democrats’ win
+              - listitem [ref=e439]:
+                - link "People cast their votes at the Bailey's Elementary School polling location in Falls Church, Virginia on Tuesday." [ref=e440] [cursor=pointer]:
+                  - /url: /2026/04/22/politics/trump-virginia-election-claim-rigged
+                  - generic [ref=e442]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "People cast their votes at the Bailey's Elementary School polling location in Falls Church, Virginia on Tuesday."
+                - 'link "Analysis : Trump brings his nonsense about mail-in ballots to Republicans’ Virginia defeat" [ref=e443] [cursor=pointer]':
+                  - /url: /2026/04/22/politics/trump-virginia-election-claim-rigged
+                  - generic [ref=e445]:
+                    - generic [ref=e446]: "Analysis :"
+                    - text: Trump brings his nonsense about mail-in ballots to Republicans’ Virginia defeat
+          - generic [ref=e450]:
+            - heading "business & tech" [level=2] [ref=e452]
+            - list [ref=e455]:
+              - listitem [ref=e456]:
+                - link "Sullivan & Cromwell apologized to federal bankruptcy judge after it submitted a court filing riddled with AI-generated errors. Analysis" [ref=e457] [cursor=pointer]:
+                  - /url: /2026/04/23/business/ai-hallucination-sullivan-cromwell-nightcap
+                  - generic [ref=e459]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Sullivan & Cromwell apologized to federal bankruptcy judge after it submitted a court filing riddled with AI-generated errors."
+                      - generic:
+                        - generic:
+                          - generic: Analysis
+                - link "Another ‘hallucinated’ court filing highlights the difference between Silicon Valley and the rest of the world" [ref=e460] [cursor=pointer]:
+                  - /url: /2026/04/23/business/ai-hallucination-sullivan-cromwell-nightcap
+                  - generic [ref=e462]: ": Another ‘hallucinated’ court filing highlights the difference between Silicon Valley and the rest of the world"
+              - listitem [ref=e463]:
+                - link "The S&P 500 has notched four record high so far this month." [ref=e464] [cursor=pointer]:
+                  - /url: /2026/04/23/investing/stocks-record-high-iran-war
+                  - generic [ref=e466]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The S&P 500 has notched four record high so far this month."
+                - link "Stocks are at record highs and shrugging off the war with Iran" [ref=e467] [cursor=pointer]:
+                  - /url: /2026/04/23/investing/stocks-record-high-iran-war
+                  - generic [ref=e469]: Stocks are at record highs and shrugging off the war with Iran
+              - listitem [ref=e470]:
+                - link "The sun rises behind a pylon and power lines in Frankfurt, Germany, on April 1, 2026." [ref=e471] [cursor=pointer]:
+                  - /url: /2026/04/22/business/europe-energy-crisis-costs-intl
+                  - generic [ref=e473]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The sun rises behind a pylon and power lines in Frankfurt, Germany, on April 1, 2026."
+                - 'link "$28 billion and counting: Europe tallies the cost of another energy crisis" [ref=e474] [cursor=pointer]':
+                  - /url: /2026/04/22/business/europe-energy-crisis-costs-intl
+                  - generic [ref=e476]: "$28 billion and counting: Europe tallies the cost of another energy crisis"
+        - generic [ref=e483]:
+          - generic [ref=e487]:
+            - heading "Crime & Justice" [level=2] [ref=e489]
+            - list [ref=e492]:
+              - listitem [ref=e493]:
+                - link "still_22563405_12873.300000000001_still.jpg 1:07" [ref=e494] [cursor=pointer]:
+                  - /url: /2026/04/22/world/video/el-salvador-tries-alleged-gang-members-cecot-intldesk-digvid
+                  - generic [ref=e496]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "still_22563405_12873.300000000001_still.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 1:07
+                - link "El Salvador tries hundreds of alleged gang members" [ref=e497] [cursor=pointer]:
+                  - /url: /2026/04/22/world/video/el-salvador-tries-alleged-gang-members-cecot-intldesk-digvid
+                  - generic [ref=e499]: El Salvador tries hundreds of alleged gang members
+              - listitem [ref=e500]:
+                - link "A portrait of the late Celeste Rivas Hernandez is shown during a press briefing by Los Angeles County District Attorney Nathan Hochman (out of frame) in Los Angeles on Monday." [ref=e501] [cursor=pointer]:
+                  - /url: /2026/04/22/us/d4vd-celeste-rivas-hernandez-autopsy
+                  - generic [ref=e503]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A portrait of the late Celeste Rivas Hernandez is shown during a press briefing by Los Angeles County District Attorney Nathan Hochman (out of frame) in Los Angeles on Monday."
+                - link "Celeste Rivas Hernandez, who singer d4vd is charged with killing, died of ‘multiple penetrating injuries,’ autopsy finds" [ref=e504] [cursor=pointer]:
+                  - /url: /2026/04/22/us/d4vd-celeste-rivas-hernandez-autopsy
+                  - generic [ref=e506]: Celeste Rivas Hernandez, who singer d4vd is charged with killing, died of ‘multiple penetrating injuries,’ autopsy finds
+          - generic [ref=e510]:
+            - heading "Climate & extreme weather" [level=2] [ref=e512]
+            - list [ref=e515]:
+              - listitem [ref=e516]:
+                - link "119051_NutellaTheTurtle vrtc.jpg 0:41" [ref=e517] [cursor=pointer]:
+                  - /url: /2026/04/23/us/video/nutella-the-turtle-is-released-back-to-ocean-hnk-vrtc-digvid
+                  - generic [ref=e519]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119051_NutellaTheTurtle vrtc.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 0:41
+                - link "Rescued turtle ‘Nutella’ is sent back into the ocean" [ref=e520] [cursor=pointer]:
+                  - /url: /2026/04/23/us/video/nutella-the-turtle-is-released-back-to-ocean-hnk-vrtc-digvid
+                  - generic [ref=e522]: Rescued turtle ‘Nutella’ is sent back into the ocean
+              - listitem [ref=e523]:
+                - link "hedda andersen_weir 042226_2.png" [ref=e524] [cursor=pointer]:
+                  - /url: /2026/04/22/world/video/earth-day-arctic-sea-ice-drops-to-alarming-new-low-cnc
+                  - generic [ref=e526]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "hedda andersen_weir 042226_2.png"
+                - link "What a glaciologist wants you to know as sea ice drops to an alarming new low 2:10" [ref=e527] [cursor=pointer]:
+                  - /url: /2026/04/22/world/video/earth-day-arctic-sea-ice-drops-to-alarming-new-low-cnc
+                  - generic [ref=e529]:
+                    - text: What a glaciologist wants you to know as sea ice drops to an alarming new low
+                    - generic [ref=e530]: 2:10
+          - generic [ref=e535]:
+            - heading "Media matters" [level=2] [ref=e537]
+            - list [ref=e540]:
+              - listitem [ref=e541]:
+                - 'link "NEW YORK, NEW YORK - APRIL 15: Far-right activist Laura Loomer speaks to the media prior to the beginning of former President Donald Trump''s Trial at Manhattan Criminal Court on April 15, 2024 in New York City. Jury selection is set to begin in the former president''s criminal trial. Trump faces 34 felony counts of falsifying business records in the first of his criminal cases to go to trial. This is the first-ever criminal trial of a former president of the United States. (Photo by David Dee Delgado/Getty Images)" [ref=e542] [cursor=pointer]':
+                  - /url: /2026/04/22/media/laura-loomer-bill-maher-hbo-defamation-lawsuit-dismissed
+                  - generic [ref=e544]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "NEW YORK, NEW YORK - APRIL 15: Far-right activist Laura Loomer speaks to the media prior to the beginning of former President Donald Trump''s Trial at Manhattan Criminal Court on April 15, 2024 in New York City. Jury selection is set to begin in the former president''s criminal trial. Trump faces 34 felony counts of falsifying business records in the first of his criminal cases to go to trial. This is the first-ever criminal trial of a former president of the United States. (Photo by David Dee Delgado/Getty Images)"'
+                - link "Judge tosses Laura Loomer’s lawsuit, says Bill Maher joke wasn’t defamation" [ref=e545] [cursor=pointer]:
+                  - /url: /2026/04/22/media/laura-loomer-bill-maher-hbo-defamation-lawsuit-dismissed
+                  - generic [ref=e547]: Judge tosses Laura Loomer’s lawsuit, says Bill Maher joke wasn’t defamation
+              - listitem [ref=e548]:
+                - link "Warner Bros. Discovery’s shareholders will vote Thursday morning on Paramount Skydance’s acquisition of the media giant — a pivotal hurdle in the merger process." [ref=e549] [cursor=pointer]:
+                  - /url: /2026/04/22/media/wbd-paramount-shareholders-vote-merger-warner-ellison
+                  - generic [ref=e551]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Warner Bros. Discovery’s shareholders will vote Thursday morning on Paramount Skydance’s acquisition of the media giant — a pivotal hurdle in the merger process."
+                - link "Warner Bros. Discovery shareholders are about to vote on the Paramount mega-deal" [ref=e552] [cursor=pointer]:
+                  - /url: /2026/04/22/media/wbd-paramount-shareholders-vote-merger-warner-ellison
+                  - generic [ref=e554]: Warner Bros. Discovery shareholders are about to vote on the Paramount mega-deal
+        - generic [ref=e559]:
+          - generic [ref=e563]:
+            - heading "travel & beyond" [level=2] [ref=e565]
+            - list [ref=e568]:
+              - listitem [ref=e569]:
+                - link "A raspberry Danish latte drink, created by Little Joy Coffee in Northfield, Minnesota." [ref=e570] [cursor=pointer]:
+                  - /url: /travel/raspberry-danish-viral-coffee-northfield-minnesota-spc
+                  - generic [ref=e572]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A raspberry Danish latte drink, created by Little Joy Coffee in Northfield, Minnesota."
+                - link "A tiny coffee shop gave away the recipe to its viral drink. Now it’s appearing on menus around the world" [ref=e573] [cursor=pointer]:
+                  - /url: /travel/raspberry-danish-viral-coffee-northfield-minnesota-spc
+                  - generic [ref=e575]: A tiny coffee shop gave away the recipe to its viral drink. Now it’s appearing on menus around the world
+          - generic [ref=e579]:
+            - heading "China's 'ghost cake' scandal" [level=2] [ref=e581]
+            - list [ref=e584]:
+              - listitem [ref=e585]:
+                - link "Delivery riders from various on-demand platforms, including Taobao Flash Buy and Meituan, wait for new orders in Beijing, China, on November 12, 2025." [ref=e586] [cursor=pointer]:
+                  - /url: /2026/04/21/business/china-ghost-food-delivery-fine-intl-hnk
+                  - generic [ref=e588]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Delivery riders from various on-demand platforms, including Taobao Flash Buy and Meituan, wait for new orders in Beijing, China, on November 12, 2025."
+                - link "How a crummy cake kicked off a food-delivery crisis in China" [ref=e589] [cursor=pointer]:
+                  - /url: /2026/04/21/business/china-ghost-food-delivery-fine-intl-hnk
+                  - generic [ref=e591]: How a crummy cake kicked off a food-delivery crisis in China
+          - generic [ref=e595]:
+            - heading "Science" [level=2] [ref=e597]
+            - list [ref=e600]:
+              - listitem [ref=e601]:
+                - link "An illustration depicting human sperm" [ref=e602] [cursor=pointer]:
+                  - /url: /2026/04/22/health/fertility-stress-sperm-health-wellness
+                  - generic [ref=e604]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "An illustration depicting human sperm"
+                - link "Can stress affect sperm? What men should know about fertility" [ref=e605] [cursor=pointer]:
+                  - /url: /2026/04/22/health/fertility-stress-sperm-health-wellness
+                  - generic [ref=e607]: Can stress affect sperm? What men should know about fertility
+        - generic [ref=e609]:
+          - heading "CNN Shorts" [level=2] [ref=e610]
+          - list [ref=e616]:
+            - listitem [ref=e617]:
+              - link "119048_iran container raid Clean.00_00_22_08.Still003.png 0:57" [ref=e618] [cursor=pointer]:
+                - /url: /2026/04/23/world/video/iran-strait-of-hormuz-cargo-ships-vrtc
+                - generic [ref=e620]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119048_iran container raid Clean.00_00_22_08.Still003.png"
+                    - generic:
+                      - generic:
+                        - generic: 0:57
+              - link "Video purportedly shows Iranian soldiers seizing ships" [ref=e621] [cursor=pointer]:
+                - /url: /2026/04/23/world/video/iran-strait-of-hormuz-cargo-ships-vrtc
+                - generic:
+                  - generic: Video purportedly shows Iranian soldiers seizing ships
+            - listitem [ref=e622]:
+              - link "119041_RFKJrWrap VRTC THUMB CLEAN.png 2:45" [ref=e623] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/rfk-jr-congressional-hearings-tirrell-vrtc-digvid
+                - generic [ref=e625]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119041_RFKJrWrap VRTC THUMB CLEAN.png"
+                    - generic:
+                      - generic:
+                        - generic: 2:45
+              - link "RFK Jr. faces contentious congressional hearings" [ref=e626] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/rfk-jr-congressional-hearings-tirrell-vrtc-digvid
+                - generic:
+                  - generic: RFK Jr. faces contentious congressional hearings
+            - listitem [ref=e627]:
+              - link "260422_JohnKerryClean.jpg 0:49" [ref=e628] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/john-kerry-trump-iran-negotiations-vrtc-digvid
+                - generic [ref=e630]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "260422_JohnKerryClean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:49
+              - link "John Kerry’s advice to Trump on Iran negotiations" [ref=e631] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/john-kerry-trump-iran-negotiations-vrtc-digvid
+                - generic:
+                  - generic: John Kerry’s advice to Trump on Iran negotiations
+            - listitem [ref=e632]:
+              - link "119043_Georgia Wildfires Clean Thumbnail vrtc0.jpg 1:12" [ref=e633] [cursor=pointer]:
+                - /url: /2026/04/22/us/video/georgia-wildfires-extreme-drought-vrtc
+                - generic [ref=e635]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119043_Georgia Wildfires Clean Thumbnail vrtc0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:12
+              - link "Georgia wildfires grow amid drought conditions" [ref=e636] [cursor=pointer]:
+                - /url: /2026/04/22/us/video/georgia-wildfires-extreme-drought-vrtc
+                - generic:
+                  - generic: Georgia wildfires grow amid drought conditions
+            - listitem [ref=e637]:
+              - link "119051_NutellaTheTurtle vrtc.jpg 0:41" [ref=e638] [cursor=pointer]:
+                - /url: /2026/04/23/us/video/nutella-the-turtle-is-released-back-to-ocean-hnk-vrtc-digvid
+                - generic [ref=e640]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119051_NutellaTheTurtle vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:41
+              - link "Rescued turtle ‘Nutella’ is sent back into the ocean" [ref=e641] [cursor=pointer]:
+                - /url: /2026/04/23/us/video/nutella-the-turtle-is-released-back-to-ocean-hnk-vrtc-digvid
+                - generic:
+                  - generic: Rescued turtle ‘Nutella’ is sent back into the ocean
+            - listitem [ref=e642]:
+              - link "2026ElSalvadorGangTrialsThumbnailClean.jpg 1:01" [ref=e643] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/elsalvador-gang-members-trial-vrtc-digvid
+                - generic [ref=e645]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "2026ElSalvadorGangTrialsThumbnailClean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:01
+              - link "El Salvador tries hundreds of alleged gang members" [ref=e646] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/elsalvador-gang-members-trial-vrtc-digvid
+                - generic:
+                  - generic: El Salvador tries hundreds of alleged gang members
+            - listitem [ref=e647]:
+              - link "119040_WestBankEducationAttacks_Vertical_1.00_00_35_04.Still001.jpg 1:53" [ref=e648] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/14-year-old-boy-man-shot-west-bank-school-israeli-settlers-vrtc
+                - generic [ref=e650]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119040_WestBankEducationAttacks_Vertical_1.00_00_35_04.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:53
+              - link "Palestinian boy killed as Israeli settlers open fire on school" [ref=e651] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/14-year-old-boy-man-shot-west-bank-school-israeli-settlers-vrtc
+                - generic:
+                  - generic: Palestinian boy killed as Israeli settlers open fire on school
+            - listitem [ref=e652]:
+              - link "119044_NavySecretaryQuitsClean.jpg 0:43" [ref=e653] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/john-phelan-leaving-navy-secretary-vrtc-digvid
+                - generic [ref=e655]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119044_NavySecretaryQuitsClean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:43
+              - link "Navy secretary ousted as US naval blockade of Iran continues" [ref=e656] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/john-phelan-leaving-navy-secretary-vrtc-digvid
+                - generic:
+                  - generic: Navy secretary ousted as US naval blockade of Iran continues
+            - listitem [ref=e657]:
+              - link "popes busy day thumb.jpg 1:52" [ref=e658] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/a-day-in-the-life-with-pope-leo-digvid-vrtc
+                - generic [ref=e660]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "popes busy day thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:52
+              - link "A day in the life with Pope Leo" [ref=e661] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/a-day-in-the-life-with-pope-leo-digvid-vrtc
+                - generic:
+                  - generic: A day in the life with Pope Leo
+            - listitem [ref=e662]:
+              - link "Architect of Trump's political operation says Republicans are 'in the fight' 2:26" [ref=e663] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/james-blair-dana-bash-intvw-digvid-vrtc
+                - generic [ref=e665]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Architect of Trump's political operation says Republicans are 'in the fight'"
+                    - generic:
+                      - generic:
+                        - generic: 2:26
+              - link "Architect of Trump’s political operation says Republicans are ‘in the fight’" [ref=e666] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/james-blair-dana-bash-intvw-digvid-vrtc
+                - generic:
+                  - generic: Architect of Trump’s political operation says Republicans are ‘in the fight’
+            - listitem [ref=e667]:
+              - link "condom.jpg 1:24" [ref=e668] [cursor=pointer]:
+                - /url: /2026/04/22/business/video/iran-war-may-increase-condom-prices-digvid-vrtc
+                - generic [ref=e670]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "condom.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:24
+              - link "Why the war in Iran could raise condom prices" [ref=e671] [cursor=pointer]:
+                - /url: /2026/04/22/business/video/iran-war-may-increase-condom-prices-digvid-vrtc
+                - generic:
+                  - generic: Why the war in Iran could raise condom prices
+            - listitem [ref=e672]:
+              - link "260417_ATI_SarahWildman2_clean_thumb.png 1:26" [ref=e673] [cursor=pointer]:
+                - /url: /2026/04/22/us/video/ati-sarah-wildman-vrtc-digvid
+                - generic [ref=e675]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "260417_ATI_SarahWildman2_clean_thumb.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:26
+              - 'link "‘Let it be messy’: What a grieving mom has learned" [ref=e676] [cursor=pointer]':
+                - /url: /2026/04/22/us/video/ati-sarah-wildman-vrtc-digvid
+                - generic:
+                  - generic: "‘Let it be messy’: What a grieving mom has learned"
+            - listitem [ref=e677]:
+              - link "TeotihuacánShooting_Thumb_Clean.jpg 0:28" [ref=e678] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/teotihuacan-shooting-video-digvid-vrtc
+                - generic [ref=e680]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "TeotihuacánShooting_Thumb_Clean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:28
+              - link "New video obtained by CNN shows tourists fleeing during Teotihuacán shooting" [ref=e681] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/teotihuacan-shooting-video-digvid-vrtc
+                - generic:
+                  - generic: New video obtained by CNN shows tourists fleeing during Teotihuacán shooting
+            - listitem [ref=e682]:
+              - link "119020_DrakeIceCube Clean Thumb.jpg 1:04" [ref=e683] [cursor=pointer]:
+                - /url: /2026/04/22/entertainment/video/why-drake-fans-tried-to-break-this-ice-block-digvid-vrtc
+                - generic [ref=e685]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119020_DrakeIceCube Clean Thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:04
+              - link "Why Drake fans tried to break this ice block" [ref=e686] [cursor=pointer]:
+                - /url: /2026/04/22/entertainment/video/why-drake-fans-tried-to-break-this-ice-block-digvid-vrtc
+                - generic:
+                  - generic: Why Drake fans tried to break this ice block
+            - listitem [ref=e687]:
+              - link "1:04" [ref=e688] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/rio-de-janeiro-tourists-stranded-digvid-vrtc
+                - generic [ref=e690]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: 1:04
+              - link "Why were 200 tourists trapped on a hill in Rio?" [ref=e691] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/rio-de-janeiro-tourists-stranded-digvid-vrtc
+                - generic:
+                  - generic: Why were 200 tourists trapped on a hill in Rio?
+            - listitem [ref=e692]:
+              - link "119029_RFKJrHearing Thumbnail 1.png 1:26" [ref=e693] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/rfk-jr-senate-finance-hearing-self-promotion-videos-digvid-vrtc
+                - generic [ref=e695]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119029_RFKJrHearing Thumbnail 1.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:26
+              - link "Senator presses RFK Jr. over his promotional videos" [ref=e696] [cursor=pointer]:
+                - /url: /2026/04/22/politics/video/rfk-jr-senate-finance-hearing-self-promotion-videos-digvid-vrtc
+                - generic:
+                  - generic: Senator presses RFK Jr. over his promotional videos
+            - listitem [ref=e697]:
+              - link "119032 Weir Svarbald THUMB.jpg 1:14" [ref=e698] [cursor=pointer]:
+                - /url: /2026/04/22/climate/video/melting-glaciers-arctic-circle-vrtc
+                - generic [ref=e700]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119032 Weir Svarbald THUMB.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:14
+              - link "CNN witnesses glacier retreat in Arctic" [ref=e701] [cursor=pointer]:
+                - /url: /2026/04/22/climate/video/melting-glaciers-arctic-circle-vrtc
+                - generic:
+                  - generic: CNN witnesses glacier retreat in Arctic
+            - listitem [ref=e702]:
+              - link "pink-washing-iran-women-vrtc-cln.jpg 1:32" [ref=e703] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/pink-weapons-pinkwashing-iran-women-vrtc
+                - generic [ref=e705]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "pink-washing-iran-women-vrtc-cln.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:32
+              - link "Is Iran ‘pinkwashing’ to attract women supporters?" [ref=e706] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/pink-weapons-pinkwashing-iran-women-vrtc
+                - generic:
+                  - generic: Is Iran ‘pinkwashing’ to attract women supporters?
+            - listitem [ref=e707]:
+              - link "119028_PlaneCrashPowerPole_THUMB clean0.jpg 0:24" [ref=e708] [cursor=pointer]:
+                - /url: /2026/04/22/us/video/small-plane-snaps-power-pole-california-digvid-vrtc
+                - generic [ref=e710]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119028_PlaneCrashPowerPole_THUMB clean0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:24
+              - link "Small plane snaps power pole and crashes in Los Angeles" [ref=e711] [cursor=pointer]:
+                - /url: /2026/04/22/us/video/small-plane-snaps-power-pole-california-digvid-vrtc
+                - generic:
+                  - generic: Small plane snaps power pole and crashes in Los Angeles
+            - listitem [ref=e712]:
+              - link "119023_PhillyTruckHeist.jpg 0:49" [ref=e713] [cursor=pointer]:
+                - /url: /2026/04/22/us/video/brinks-truck-heist-philadelphia-digvid-vrtc
+                - generic [ref=e715]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119023_PhillyTruckHeist.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:49
+              - link "Police hunt for men who robbed armored truck at gunpoint" [ref=e716] [cursor=pointer]:
+                - /url: /2026/04/22/us/video/brinks-truck-heist-philadelphia-digvid-vrtc
+                - generic:
+                  - generic: Police hunt for men who robbed armored truck at gunpoint
+            - listitem [ref=e717]:
+              - link "thumbnail zelensky amanpour intv 2 vrtc.jpg 1:29" [ref=e718] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/zelensky-iran-ukraine-russia-ceasefire-interview-amanpour-vrtc
+                - generic [ref=e720]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "thumbnail zelensky amanpour intv 2 vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:29
+              - link "Zelensky says ceasefire with Russia unlikely until Iran issue ‘closed’" [ref=e721] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/zelensky-iran-ukraine-russia-ceasefire-interview-amanpour-vrtc
+                - generic:
+                  - generic: Zelensky says ceasefire with Russia unlikely until Iran issue ‘closed’
+            - listitem [ref=e722]:
+              - link "119025_CLEAN_ClareSolovyovVsMeloni_V3VRTC.00_00_20_24.Still002.jpg 1:24" [ref=e723] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/russian-tv-host-sparks-diplomatic-incident-vrtc
+                - generic [ref=e725]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119025_CLEAN_ClareSolovyovVsMeloni_V3VRTC.00_00_20_24.Still002.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:24
+              - link "Russian TV host sparks diplomatic incident" [ref=e726] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/russian-tv-host-sparks-diplomatic-incident-vrtc
+                - generic:
+                  - generic: Russian TV host sparks diplomatic incident
+            - listitem [ref=e727]:
+              - link "thumbnail amanpour zelensky intv 1 vrtc.jpg 0:43" [ref=e728] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/zelensky-world-leaders-must-speak-to-putin-peace-amanpour-vrtc
+                - generic [ref=e730]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "thumbnail amanpour zelensky intv 1 vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:43
+              - link "Zelensky tells Amanpour world leaders must speak to Putin" [ref=e731] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/zelensky-world-leaders-must-speak-to-putin-peace-amanpour-vrtc
+                - generic:
+                  - generic: Zelensky tells Amanpour world leaders must speak to Putin
+            - listitem [ref=e732]:
+              - link "Wemby 1.jpg 0:44" [ref=e733] [cursor=pointer]:
+                - /url: /2026/04/22/sport/video/spur-wembanyama-concussion-ldn-digvid-vrtc
+                - generic [ref=e735]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Wemby 1.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:44
+              - link "Spurs’ star Wembanyama exits Game 2 with concussion" [ref=e736] [cursor=pointer]:
+                - /url: /2026/04/22/sport/video/spur-wembanyama-concussion-ldn-digvid-vrtc
+                - generic:
+                  - generic: Spurs’ star Wembanyama exits Game 2 with concussion
+            - listitem [ref=e737]:
+              - link "119016_ChinaMocksTrump_vrtc_clean.00_00_05_29.Still002.jpg 0:53" [ref=e738] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/china-ua-iran-war-social-media-vrtc-ldn-digvid
+                - generic [ref=e740]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119016_ChinaMocksTrump_vrtc_clean.00_00_05_29.Still002.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:53
+              - link "Is China ‘winning’ the Iran war?" [ref=e741] [cursor=pointer]:
+                - /url: /2026/04/22/world/video/china-ua-iran-war-social-media-vrtc-ldn-digvid
+                - generic:
+                  - generic: Is China ‘winning’ the Iran war?
+        - generic [ref=e749]:
+          - link "African Voices" [ref=e751] [cursor=pointer]:
+            - /url: https://edition.cnn.com/world/africa/african-voices
+            - heading "African Voices" [level=2] [ref=e752]:
+              - text: African Voices
+              - img [ref=e753]
+          - list [ref=e757]:
+            - listitem [ref=e758]:
+              - link "Ghanaian singer King Promise says he doesn’t object to being called an Afrobeats artist, but that his music covers many other genres, from R&B to highlife. Pictured, King Promise performing at the 2024 MOBO Awards in Sheffield, England, February 7, 2024." [ref=e759] [cursor=pointer]:
+                - /url: /world/africa/king-promise-african-artists-labeled-afrobeats-spc
+                - generic [ref=e761]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Ghanaian singer King Promise says he doesn’t object to being called an Afrobeats artist, but that his music covers many other genres, from R&B to highlife. Pictured, King Promise performing at the 2024 MOBO Awards in Sheffield, England, February 7, 2024."
+              - link "Why Ghanaian singer King Promise and other African artists don’t want to be boxed into Afrobeats" [ref=e762] [cursor=pointer]:
+                - /url: /world/africa/king-promise-african-artists-labeled-afrobeats-spc
+                - generic [ref=e764]: Why Ghanaian singer King Promise and other African artists don’t want to be boxed into Afrobeats
+            - listitem [ref=e765]:
+              - link "JoeboyStage.jpg" [ref=e766] [cursor=pointer]:
+                - /url: /world/how-a-viral-ed-sheeran-cover-led-joeboy-to-global-success-spc
+                - generic [ref=e768]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "JoeboyStage.jpg"
+              - link "How a viral Ed Sheeran cover led Joeboy to Mr Eazi and global success" [ref=e769] [cursor=pointer]:
+                - /url: /world/how-a-viral-ed-sheeran-cover-led-joeboy-to-global-success-spc
+                - generic [ref=e771]: How a viral Ed Sheeran cover led Joeboy to Mr Eazi and global success
+            - listitem [ref=e772]:
+              - 'link "ABIDJAN, IVORY COAST - OCTOBER 09: Nomzamo Mbatha attendsthe Economic Development Assembly: Advancing Africa''s Future on October 09, 2024 in Abidjan, Ivory Coast. (Photo by Andrew Esiebo/Getty Images for Global Citizen)" [ref=e773] [cursor=pointer]':
+                - /url: /world/nomzamo-mbatha-south-africa-to-global-stage-spc
+                - generic [ref=e775]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - 'img "ABIDJAN, IVORY COAST - OCTOBER 09: Nomzamo Mbatha attendsthe Economic Development Assembly: Advancing Africa''s Future on October 09, 2024 in Abidjan, Ivory Coast. (Photo by Andrew Esiebo/Getty Images for Global Citizen)"'
+              - 'link "Nomzamo Mbatha: From South Africa to the global stage" [ref=e776] [cursor=pointer]':
+                - /url: /world/nomzamo-mbatha-south-africa-to-global-stage-spc
+                - generic [ref=e778]: "Nomzamo Mbatha: From South Africa to the global stage"
+        - generic [ref=e785]:
+          - heading "More from CNN" [level=2] [ref=e786]
+          - generic [ref=e787]:
+            - generic [ref=e795]:
+              - link "Animation by Agne Jurkenaite/CNN" [ref=e796] [cursor=pointer]:
+                - /url: https://edition.cnn.com/interactive/2026/03/world/expose-rape-assault-online-vis-intl/
+                - generic [ref=e798]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Animation by Agne Jurkenaite/CNN
+              - 'link "Interactive Exposing a global ‘rape academy’: In shocking group chats, men encourage one another to drug and assault their wives" [ref=e799] [cursor=pointer]':
+                - /url: https://edition.cnn.com/interactive/2026/03/world/expose-rape-assault-online-vis-intl/
+                - generic [ref=e800]:
+                  - generic [ref=e803]: Interactive
+                  - generic [ref=e804]: ": Exposing a global ‘rape academy’: In shocking group chats, men encourage one another to drug and assault their wives"
+            - list [ref=e811]:
+              - listitem [ref=e812]:
+                - link "Police officers stand guard at a barricaded checkpoint, to ensure security ahead of a second round of negotiations between the US and Iran, in Islamabad, Pakistan, on Tuesday." [ref=e813] [cursor=pointer]:
+                  - /url: /2026/04/21/asia/islamabad-pakistan-iran-talks-intl-latam
+                  - generic [ref=e815]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Police officers stand guard at a barricaded checkpoint, to ensure security ahead of a second round of negotiations between the US and Iran, in Islamabad, Pakistan, on Tuesday."
+                - 'link "Analysis: Islamabad on hold as US and Iran at a historic tipping point" [ref=e816] [cursor=pointer]':
+                  - /url: /2026/04/21/asia/islamabad-pakistan-iran-talks-intl-latam
+                  - generic [ref=e818]:
+                    - generic [ref=e819]: "Analysis:"
+                    - text: Islamabad on hold as US and Iran at a historic tipping point
+              - listitem [ref=e820]:
+                - 'link "WASHINGTON, DC - MARCH 26: U.S. Secretary of Homeland Security Markwayne Mullin attends a Cabinet meeting in the Cabinet Room of the White House on March 26, 2026 in Washington, DC. This is Trump''s second Cabinet meeting of 2026 and the first since the United States and Israel began attacking Iran on February 28. (Photo by Chip Somodevilla/Getty Images)" [ref=e821] [cursor=pointer]':
+                  - /url: /2026/04/22/us/tsa-dhs-emergency-funds-ceasing
+                  - generic [ref=e823]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "WASHINGTON, DC - MARCH 26: U.S. Secretary of Homeland Security Markwayne Mullin attends a Cabinet meeting in the Cabinet Room of the White House on March 26, 2026 in Washington, DC. This is Trump''s second Cabinet meeting of 2026 and the first since the United States and Israel began attacking Iran on February 28. (Photo by Chip Somodevilla/Getty Images)"'
+                - link "DHS warns it will run out of money to pay airport security workers in coming weeks" [ref=e824] [cursor=pointer]:
+                  - /url: /2026/04/22/us/tsa-dhs-emergency-funds-ceasing
+                  - generic [ref=e826]: DHS warns it will run out of money to pay airport security workers in coming weeks
+              - listitem [ref=e827]:
+                - link "A person votes in the Virginia redistricting referendum at Fairfax Government Center, Tuesday, April 21, 2026, in Fairfax, Virginia." [ref=e828] [cursor=pointer]:
+                  - /url: /2026/04/21/politics/takeaways-virginia-redistricting
+                  - generic [ref=e830]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A person votes in the Virginia redistricting referendum at Fairfax Government Center, Tuesday, April 21, 2026, in Fairfax, Virginia."
+                - 'link "Analysis: 5 takeaways from the Virginia redistricting vote" [ref=e831] [cursor=pointer]':
+                  - /url: /2026/04/21/politics/takeaways-virginia-redistricting
+                  - generic [ref=e833]:
+                    - generic [ref=e834]: "Analysis:"
+                    - text: 5 takeaways from the Virginia redistricting vote
+              - listitem [ref=e835]:
+                - link "118994_TigerCircus_THUMB.jpg" [ref=e836] [cursor=pointer]:
+                  - /url: /2026/04/21/world/video/tiger-leaps-crowd-russian-circus-vrtc-digvid-ldn
+                  - generic [ref=e838]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "118994_TigerCircus_THUMB.jpg"
+                - link "Tiger leaps into crowd at Russian circus show 0:41" [ref=e839] [cursor=pointer]:
+                  - /url: /2026/04/21/world/video/tiger-leaps-crowd-russian-circus-vrtc-digvid-ldn
+                  - generic [ref=e841]:
+                    - text: Tiger leaps into crowd at Russian circus show
+                    - generic [ref=e842]: 0:41
+              - listitem [ref=e844]:
+                - link "A copy of the Ten Commandments is posted along with other historical documents in a hallway of the Georgia Capitol on June 20, 2024, in Atlanta." [ref=e845] [cursor=pointer]:
+                  - /url: /2026/04/21/us/texas-ten-commandments-schools
+                  - generic [ref=e847]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A copy of the Ten Commandments is posted along with other historical documents in a hallway of the Georgia Capitol on June 20, 2024, in Atlanta."
+                - link "Texas can require public schools to display the Ten Commandments in classrooms, US appeals court rules" [ref=e848] [cursor=pointer]:
+                  - /url: /2026/04/21/us/texas-ten-commandments-schools
+                  - generic [ref=e850]: Texas can require public schools to display the Ten Commandments in classrooms, US appeals court rules
+    - contentinfo [ref=e852]:
+      - generic [ref=e853]:
+        - search [ref=e855]:
+          - textbox "Search" [ref=e856]:
+            - /placeholder: Search CNN...
+          - button "Submit" [ref=e857]
+        - navigation [ref=e859]:
+          - list [ref=e860]:
+            - listitem [ref=e861]:
+              - link "World" [ref=e862] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world
+              - list [ref=e863]:
+                - listitem [ref=e864]:
+                  - link "World Africa" [ref=e865] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/africa
+                    - text: Africa
+                - listitem [ref=e866]:
+                  - link "World Americas" [ref=e867] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/americas
+                    - text: Americas
+                - listitem [ref=e868]:
+                  - link "World Asia" [ref=e869] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/asia
+                    - text: Asia
+                - listitem [ref=e870]:
+                  - link "World Australia" [ref=e871] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/australia
+                    - text: Australia
+                - listitem [ref=e872]:
+                  - link "World China" [ref=e873] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/china
+                    - text: China
+                - listitem [ref=e874]:
+                  - link "World Europe" [ref=e875] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/europe
+                    - text: Europe
+                - listitem [ref=e876]:
+                  - link "World India" [ref=e877] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/india
+                    - text: India
+                - listitem [ref=e878]:
+                  - link "World Middle East" [ref=e879] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/middle-east
+                    - text: Middle East
+                - listitem [ref=e880]:
+                  - link "World United Kingdom" [ref=e881] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/united-kingdom
+                    - text: United Kingdom
+            - listitem [ref=e882]:
+              - link "US Politics" [ref=e883] [cursor=pointer]:
+                - /url: https://edition.cnn.com/politics
+              - list [ref=e884]:
+                - listitem [ref=e885]:
+                  - link "US Politics Trump" [ref=e886] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/politics/president-donald-trump-47
+                    - text: Trump
+                - listitem [ref=e887]:
+                  - link "US Politics Facts First" [ref=e888] [cursor=pointer]:
+                    - /url: https://www.cnn.com/politics/fact-check
+                    - text: Facts First
+                - listitem [ref=e889]:
+                  - link "US Politics CNN Polls" [ref=e890] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/polling
+                    - text: CNN Polls
+                - listitem [ref=e891]:
+                  - link "US Politics Elections 2026" [ref=e892] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/election/2026
+                    - text: Elections 2026
+                - listitem [ref=e893]:
+                  - link "US Politics Redistricting Tracker" [ref=e894] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/politics/state-redistricting-maps-vis/index.html
+                    - text: Redistricting Tracker
+                - listitem [ref=e895]:
+                  - link "US Politics Epstein Files" [ref=e896] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/politics/epstein-files
+                    - text: Epstein Files
+            - listitem [ref=e897]:
+              - link "Business" [ref=e898] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business
+              - list [ref=e899]:
+                - listitem [ref=e900]:
+                  - link "Business Tech" [ref=e901] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/tech
+                    - text: Tech
+                - listitem [ref=e902]:
+                  - link "Business Media" [ref=e903] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/media
+                    - text: Media
+                - listitem [ref=e904]:
+                  - link "Business Calculators" [ref=e905] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/financial-calculators
+                    - text: Calculators
+                - listitem [ref=e906]:
+                  - link "Business Videos" [ref=e907] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/videos
+                    - text: Videos
+            - listitem [ref=e908]:
+              - link "Markets" [ref=e909] [cursor=pointer]:
+                - /url: https://edition.cnn.com/markets
+              - list [ref=e910]:
+                - listitem [ref=e911]:
+                  - link "Markets Pre-markets" [ref=e912] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/markets/premarkets
+                    - text: Pre-markets
+                - listitem [ref=e913]:
+                  - link "Markets After-Hours" [ref=e914] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/markets/after-hours
+                    - text: After-Hours
+                - listitem [ref=e915]:
+                  - link "Markets Fear & Greed" [ref=e916] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/markets/fear-and-greed
+                    - text: Fear & Greed
+                - listitem [ref=e917]:
+                  - link "Markets Investing" [ref=e918] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/investing
+                    - text: Investing
+                - listitem [ref=e919]:
+                  - link "Markets Markets Now" [ref=e920] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/markets-now
+                    - text: Markets Now
+                - listitem [ref=e921]:
+                  - link "Markets Nightcap" [ref=e922] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/markets/nightcap
+                    - text: Nightcap
+            - listitem [ref=e923]:
+              - link "Health" [ref=e924] [cursor=pointer]:
+                - /url: https://edition.cnn.com/health
+              - list [ref=e925]:
+                - listitem [ref=e926]:
+                  - link "Health Life, But Better" [ref=e927] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/interactive/life-but-better/
+                    - text: Life, But Better
+                - listitem [ref=e928]:
+                  - link "Health Fitness" [ref=e929] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/fitness
+                    - text: Fitness
+                - listitem [ref=e930]:
+                  - link "Health Food" [ref=e931] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/food
+                    - text: Food
+                - listitem [ref=e932]:
+                  - link "Health Sleep" [ref=e933] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/sleep
+                    - text: Sleep
+                - listitem [ref=e934]:
+                  - link "Health Mindfulness" [ref=e935] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/mindfulness
+                    - text: Mindfulness
+                - listitem [ref=e936]:
+                  - link "Health Relationships" [ref=e937] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/relationships
+                    - text: Relationships
+            - listitem [ref=e938]:
+              - link "Entertainment" [ref=e939] [cursor=pointer]:
+                - /url: https://edition.cnn.com/entertainment
+              - list [ref=e940]:
+                - listitem [ref=e941]:
+                  - link "Entertainment Movies" [ref=e942] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/entertainment/movies
+                    - text: Movies
+                - listitem [ref=e943]:
+                  - link "Entertainment Television" [ref=e944] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/entertainment/tv-shows
+                    - text: Television
+                - listitem [ref=e945]:
+                  - link "Entertainment Celebrity" [ref=e946] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/entertainment/celebrities
+                    - text: Celebrity
+            - listitem [ref=e947]:
+              - link "Tech" [ref=e948] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business/tech
+              - list [ref=e949]:
+                - listitem [ref=e950]:
+                  - link "Tech Innovate" [ref=e951] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/tech/innovate
+                    - text: Innovate
+            - listitem [ref=e952]:
+              - link "Style" [ref=e953] [cursor=pointer]:
+                - /url: https://edition.cnn.com/style
+              - list [ref=e954]:
+                - listitem [ref=e955]:
+                  - link "Style Arts" [ref=e956] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/arts
+                    - text: Arts
+                - listitem [ref=e957]:
+                  - link "Style Design" [ref=e958] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/design
+                    - text: Design
+                - listitem [ref=e959]:
+                  - link "Style Fashion" [ref=e960] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/fashion
+                    - text: Fashion
+                - listitem [ref=e961]:
+                  - link "Style Architecture" [ref=e962] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/architecture
+                    - text: Architecture
+                - listitem [ref=e963]:
+                  - link "Style Luxury" [ref=e964] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/luxury
+                    - text: Luxury
+                - listitem [ref=e965]:
+                  - link "Style Beauty" [ref=e966] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/beauty
+                    - text: Beauty
+                - listitem [ref=e967]:
+                  - link "Style Video" [ref=e968] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/videos
+                    - text: Video
+            - listitem [ref=e969]:
+              - link "Travel" [ref=e970] [cursor=pointer]:
+                - /url: https://edition.cnn.com/travel
+              - list [ref=e971]:
+                - listitem [ref=e972]:
+                  - link "Travel Destinations" [ref=e973] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/destinations
+                    - text: Destinations
+                - listitem [ref=e974]:
+                  - link "Travel Food & Drink" [ref=e975] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/food-and-drink
+                    - text: Food & Drink
+                - listitem [ref=e976]:
+                  - link "Travel Stay" [ref=e977] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/stay
+                    - text: Stay
+                - listitem [ref=e978]:
+                  - link "Travel News" [ref=e979] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/news
+                    - text: News
+                - listitem [ref=e980]:
+                  - link "Travel Videos" [ref=e981] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/videos
+                    - text: Videos
+            - listitem [ref=e982]:
+              - link "Sports" [ref=e983] [cursor=pointer]:
+                - /url: https://edition.cnn.com/sport
+              - list [ref=e984]:
+                - listitem [ref=e985]:
+                  - link "Sports Football" [ref=e986] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/soccer
+                    - text: Football
+                - listitem [ref=e987]:
+                  - link "Sports Tennis" [ref=e988] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/tennis
+                    - text: Tennis
+                - listitem [ref=e989]:
+                  - link "Sports Golf" [ref=e990] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/golf
+                    - text: Golf
+                - listitem [ref=e991]:
+                  - link "Sports Motorsport" [ref=e992] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/motorsport
+                    - text: Motorsport
+                - listitem [ref=e993]:
+                  - link "Sports US Sports" [ref=e994] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/us-sports
+                    - text: US Sports
+                - listitem [ref=e995]:
+                  - link "Sports Olympics" [ref=e996] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/milan-cortina-winter-olympics-2026
+                    - text: Olympics
+            - listitem [ref=e997]:
+              - link "Science" [ref=e998] [cursor=pointer]:
+                - /url: https://edition.cnn.com/science
+              - list [ref=e999]:
+                - listitem [ref=e1000]:
+                  - link "Science Space" [ref=e1001] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/science/space
+                    - text: Space
+                - listitem [ref=e1002]:
+                  - link "Science Life" [ref=e1003] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/science/life
+                    - text: Life
+                - listitem [ref=e1004]:
+                  - link "Science Unearthed" [ref=e1005] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/science/unearthed
+                    - text: Unearthed
+            - listitem [ref=e1006]:
+              - link "Climate" [ref=e1007] [cursor=pointer]:
+                - /url: https://edition.cnn.com/climate
+              - list [ref=e1008]:
+                - listitem [ref=e1009]:
+                  - link "Climate Solutions" [ref=e1010] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/climate/solutions
+                    - text: Solutions
+                - listitem [ref=e1011]:
+                  - link "Climate Weather" [ref=e1012] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/weather
+                    - text: Weather
+            - listitem [ref=e1013]:
+              - link "Weather" [ref=e1014] [cursor=pointer]:
+                - /url: https://edition.cnn.com/weather
+              - list [ref=e1015]:
+                - listitem [ref=e1016]:
+                  - link "Weather Video" [ref=e1017] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/weather/video
+                    - text: Video
+                - listitem [ref=e1018]:
+                  - link "Weather Climate" [ref=e1019] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/climate
+                    - text: Climate
+            - listitem [ref=e1020]:
+              - link "Ukraine-Russia War" [ref=e1021] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/europe/ukraine
+              - list
+            - listitem [ref=e1022]:
+              - link "Israel-Hamas War" [ref=e1023] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/middleeast/israel
+              - list
+            - listitem [ref=e1024]:
+              - link "Features" [ref=e1025] [cursor=pointer]:
+                - /url: https://edition.cnn.com/
+              - list [ref=e1026]:
+                - listitem [ref=e1027]:
+                  - link "Features As Equals" [ref=e1028] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/interactive/asequals
+                    - text: As Equals
+                - listitem [ref=e1029]:
+                  - link "Features Call to Earth" [ref=e1030] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/interactive/call-to-earth
+                    - text: Call to Earth
+                - listitem [ref=e1031]:
+                  - link "Features Freedom Project" [ref=e1032] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/freedom-project
+                    - text: Freedom Project
+                - listitem [ref=e1033]:
+                  - link "Features Impact Your World" [ref=e1034] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/impact-your-world
+                    - text: Impact Your World
+                - listitem [ref=e1035]:
+                  - link "Features Inside Africa" [ref=e1036] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/africa/inside-africa
+                    - text: Inside Africa
+                - listitem [ref=e1037]:
+                  - link "Features CNN Heroes" [ref=e1038] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/heroes
+                    - text: CNN Heroes
+            - listitem [ref=e1039]:
+              - link "Watch" [ref=e1040] [cursor=pointer]:
+                - /url: https://edition.cnn.com/watch
+              - list [ref=e1041]:
+                - listitem [ref=e1042]:
+                  - link "Watch Featured" [ref=e1043] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/watch
+                    - text: Featured
+                - listitem [ref=e1044]:
+                  - link "Watch CNN Headlines" [ref=e1045] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/videos/fast/cnn-headlines
+                    - text: CNN Headlines
+                - listitem [ref=e1046]:
+                  - link "Watch Shows A-Z" [ref=e1047] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/tv/all-shows
+                    - text: Shows A-Z
+                - listitem [ref=e1048]:
+                  - link "Watch CNN 10" [ref=e1049] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/cnn10
+                    - text: CNN 10
+                - listitem [ref=e1050]:
+                  - link "Watch CNN TV Schedule" [ref=e1051] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/tv/schedule/cnn
+                    - text: CNN TV Schedule
+            - listitem [ref=e1052]:
+              - link "Listen" [ref=e1053] [cursor=pointer]:
+                - /url: https://edition.cnn.com/audio
+              - list [ref=e1054]:
+                - listitem [ref=e1055]:
+                  - link "Listen All There Is with Anderson Cooper" [ref=e1056] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/all-there-is-with-anderson-cooper
+                    - text: All There Is with Anderson Cooper
+                - listitem [ref=e1057]:
+                  - link "Listen Chasing Life with Dr. Sanjay Gupta" [ref=e1058] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/chasing-life
+                    - text: Chasing Life with Dr. Sanjay Gupta
+                - listitem [ref=e1059]:
+                  - link "Listen The Assignment with Audie Cornish" [ref=e1060] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/the-assignment
+                    - text: The Assignment with Audie Cornish
+                - listitem [ref=e1061]:
+                  - link "Listen Terms of Service with Clare Duffy" [ref=e1062] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy
+                    - text: Terms of Service with Clare Duffy
+                - listitem [ref=e1063]:
+                  - link "Listen CNN 5 Things" [ref=e1064] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/5-things
+                    - text: CNN 5 Things
+                - listitem [ref=e1065]:
+                  - link "Listen All CNN Podcasts" [ref=e1066] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio
+                    - text: All CNN Podcasts
+            - listitem [ref=e1067]:
+              - link "Games" [ref=e1068] [cursor=pointer]:
+                - /url: https://edition.cnn.com/games
+              - list [ref=e1069]:
+                - listitem [ref=e1070]:
+                  - link "Games Daily Crossword" [ref=e1071] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/cnn-crossword
+                    - text: Daily Crossword
+                - listitem [ref=e1072]:
+                  - link "Games Jumble Crossword" [ref=e1073] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/jumble-crossword-daily
+                    - text: Jumble Crossword
+                - listitem [ref=e1074]:
+                  - link "Games Photo Shuffle" [ref=e1075] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/photo-shuffle
+                    - text: Photo Shuffle
+                - listitem [ref=e1076]:
+                  - link "Games Sudoblock" [ref=e1077] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/sudoblock
+                    - text: Sudoblock
+                - listitem [ref=e1078]:
+                  - link "Games Sudoku" [ref=e1079] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/daily-sudoku
+                    - text: Sudoku
+                - listitem [ref=e1080]:
+                  - link "Games 5 Things Quiz" [ref=e1081] [cursor=pointer]:
+                    - /url: https://cnn.it/5thingsquiz
+                    - text: 5 Things Quiz
+            - listitem [ref=e1082]:
+              - link "About CNN" [ref=e1083] [cursor=pointer]:
+                - /url: https://edition.cnn.com/about
+              - list [ref=e1084]:
+                - listitem [ref=e1085]:
+                  - link "About CNN Photos" [ref=e1086] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/photos
+                    - text: Photos
+                - listitem [ref=e1087]:
+                  - link "About CNN Investigations" [ref=e1088] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/us/cnn-investigates
+                    - text: Investigations
+                - listitem [ref=e1089]:
+                  - link "About CNN CNN Profiles" [ref=e1090] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/profiles
+                    - text: CNN Profiles
+                - listitem [ref=e1091]:
+                  - link "About CNN CNN Leadership" [ref=e1092] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/profiles/cnn-leadership
+                    - text: CNN Leadership
+                - listitem [ref=e1093]:
+                  - link "About CNN CNN Newsletters" [ref=e1094] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/newsletters
+                    - text: CNN Newsletters
+                - listitem [ref=e1095]:
+                  - link "About CNN Work for CNN" [ref=e1096] [cursor=pointer]:
+                    - /url: https://careers.wbd.com/cnnjobs
+                    - text: Work for CNN
+        - separator [ref=e1097]
+        - generic [ref=e1098]:
+          - link "CNN logo" [ref=e1101] [cursor=pointer]:
+            - /url: https://edition.cnn.com
+            - img [ref=e1103]
+          - generic [ref=e1109]:
+            - link "Video" [ref=e1110] [cursor=pointer]:
+              - /url: https://edition.cnn.com/watch
+              - text: Watch
+            - link "Audio" [ref=e1111] [cursor=pointer]:
+              - /url: https://edition.cnn.com/audio
+              - text: Listen
+            - link "Live TV" [ref=e1112] [cursor=pointer]:
+              - /url: https://edition.cnn.com/live-tv
+            - separator [ref=e1113]
+            - navigation "User Account Nav" [ref=e1115]:
+              - link "User Account Log In Button" [ref=e1117] [cursor=pointer]: Sign in
+            - generic [ref=e1118]:
+              - generic [ref=e1119]:
+                - generic [ref=e1120]: Follow CNN
+                - list [ref=e1121]:
+                  - listitem [ref=e1122]:
+                    - link "Visit us on Facebook" [ref=e1123] [cursor=pointer]:
+                      - /url: https://facebook.com/CNN
+                      - img [ref=e1124]
+                  - listitem [ref=e1126]:
+                    - link "Visit us on X" [ref=e1127] [cursor=pointer]:
+                      - /url: https://twitter.com/CNN
+                      - img [ref=e1128]
+                  - listitem [ref=e1130]:
+                    - link "Visit us on Instagram" [ref=e1131] [cursor=pointer]:
+                      - /url: https://instagram.com/CNN
+                      - img [ref=e1132]
+                  - listitem [ref=e1134]:
+                    - link "TikTok" [ref=e1135] [cursor=pointer]:
+                      - /url: https://www.tiktok.com/@cnn?lang=en
+                      - img "TikTok" [ref=e1136]
+                  - listitem [ref=e1138]:
+                    - link "LinkedIn" [ref=e1139] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/cnn
+                      - img "LinkedIn" [ref=e1140]
+                  - listitem [ref=e1142]:
+                    - link "Visit us on Threads" [ref=e1143] [cursor=pointer]:
+                      - /url: https://www.threads.com/@cnn
+                      - img [ref=e1144]
+              - separator [ref=e1147]
+              - generic [ref=e1148]:
+                - generic [ref=e1149]: Download the CNN app
+                - generic [ref=e1150]:
+                  - link "Download on Apple App Store" [ref=e1151] [cursor=pointer]:
+                    - /url: https://cnn.onelink.me/PVpf/q9j1odhf
+                    - img [ref=e1152]
+                  - link "Get it on Google Play" [ref=e1187] [cursor=pointer]:
+                    - /url: https://cnn.onelink.me/PVpf/43qg6lsp
+                    - img [ref=e1188]
+        - separator [ref=e1203]
+        - navigation [ref=e1204]:
+          - link "Terms of Use" [ref=e1205] [cursor=pointer]:
+            - /url: https://edition.cnn.com/terms
+          - link "Privacy Policy" [ref=e1206] [cursor=pointer]:
+            - /url: https://edition.cnn.com/privacy
+          - link "Manage Cookies" [ref=e1207] [cursor=pointer]:
+            - /url: "#"
+          - link "Ad Choices" [ref=e1208] [cursor=pointer]:
+            - /url: https://edition.cnn.com/ad-choices
+          - link "Accessibility & CC" [ref=e1209] [cursor=pointer]:
+            - /url: https://edition.cnn.com/accessibility
+          - link "About" [ref=e1210] [cursor=pointer]:
+            - /url: https://edition.cnn.com/about
+          - link "Newsletters" [ref=e1211] [cursor=pointer]:
+            - /url: https://edition.cnn.com/newsletters
+          - link "Transcripts" [ref=e1212] [cursor=pointer]:
+            - /url: https://edition.cnn.com/transcripts
+        - paragraph [ref=e1213]:
+          - text: © 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+          - text: CNN Sans ™ & © 2016 Cable News Network.
+  - generic [ref=e1221]: Loading...

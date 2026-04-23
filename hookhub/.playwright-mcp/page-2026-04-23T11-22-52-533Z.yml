@@ -1,0 +1,89 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - heading "HookHub" [level=1] [ref=e5]
+      - paragraph [ref=e6]: Discover community-built Claude Code hooks
+  - main [ref=e7]:
+    - generic [ref=e8]:
+      - link "Formatting & Linting Prettier Format on Save Automatically runs Prettier on any file edited by Claude, ensuring consistent code formatting without manual intervention. @pascalporedda View on GitHub →" [ref=e9] [cursor=pointer]:
+        - /url: https://github.com/pascalporedda/awesome-claude-code
+        - generic [ref=e10]: Formatting & Linting
+        - heading "Prettier Format on Save" [level=3] [ref=e11]
+        - paragraph [ref=e12]: Automatically runs Prettier on any file edited by Claude, ensuring consistent code formatting without manual intervention.
+        - generic [ref=e13]:
+          - generic [ref=e14]: "@pascalporedda"
+          - generic [ref=e15]: View on GitHub →
+      - link "Formatting & Linting ESLint Auto-fix Runs ESLint --fix after every PostToolUse file edit, catching linting errors before they accumulate in your codebase. @rohitg00 View on GitHub →" [ref=e16] [cursor=pointer]:
+        - /url: https://github.com/rohitg00/awesome-claude-code-toolkit
+        - generic [ref=e17]: Formatting & Linting
+        - heading "ESLint Auto-fix" [level=3] [ref=e18]
+        - paragraph [ref=e19]: Runs ESLint --fix after every PostToolUse file edit, catching linting errors before they accumulate in your codebase.
+        - generic [ref=e20]:
+          - generic [ref=e21]: "@rohitg00"
+          - generic [ref=e22]: View on GitHub →
+      - link "Testing Jest Test Runner Executes the relevant Jest test suite whenever Claude modifies a source file, surfacing regressions in real time. @disler View on GitHub →" [ref=e23] [cursor=pointer]:
+        - /url: https://github.com/disler/claude-code-hooks-mastery
+        - generic [ref=e24]: Testing
+        - heading "Jest Test Runner" [level=3] [ref=e25]
+        - paragraph [ref=e26]: Executes the relevant Jest test suite whenever Claude modifies a source file, surfacing regressions in real time.
+        - generic [ref=e27]:
+          - generic [ref=e28]: "@disler"
+          - generic [ref=e29]: View on GitHub →
+      - link "Git & VCS Git Auto-commit Creates a git commit with a descriptive message after each Claude session stop, giving you a full history of AI-assisted changes. @hesreallyhim View on GitHub →" [ref=e30] [cursor=pointer]:
+        - /url: https://github.com/hesreallyhim/awesome-claude-code
+        - generic [ref=e31]: Git & VCS
+        - heading "Git Auto-commit" [level=3] [ref=e32]
+        - paragraph [ref=e33]: Creates a git commit with a descriptive message after each Claude session stop, giving you a full history of AI-assisted changes.
+        - generic [ref=e34]:
+          - generic [ref=e35]: "@hesreallyhim"
+          - generic [ref=e36]: View on GitHub →
+      - link "Git & VCS Branch Protector Intercepts git push commands targeting protected branches and blocks them with a clear error, preventing accidental direct pushes to main. @pascalporedda View on GitHub →" [ref=e37] [cursor=pointer]:
+        - /url: https://github.com/pascalporedda/awesome-claude-code
+        - generic [ref=e38]: Git & VCS
+        - heading "Branch Protector" [level=3] [ref=e39]
+        - paragraph [ref=e40]: Intercepts git push commands targeting protected branches and blocks them with a clear error, preventing accidental direct pushes to main.
+        - generic [ref=e41]:
+          - generic [ref=e42]: "@pascalporedda"
+          - generic [ref=e43]: View on GitHub →
+      - link "Notifications Sound Completion Alert Plays a chime sound when Claude finishes a task, so you can step away and be notified when it's done without watching the terminal. @varun86 View on GitHub →" [ref=e44] [cursor=pointer]:
+        - /url: https://github.com/varun86/awesome-claude-code-sounds
+        - generic [ref=e45]: Notifications
+        - heading "Sound Completion Alert" [level=3] [ref=e46]
+        - paragraph [ref=e47]: Plays a chime sound when Claude finishes a task, so you can step away and be notified when it's done without watching the terminal.
+        - generic [ref=e48]:
+          - generic [ref=e49]: "@varun86"
+          - generic [ref=e50]: View on GitHub →
+      - link "Notifications Desktop Notification Sends a native OS desktop notification on Stop and Notification events, keeping you informed without keeping Claude Code in focus. @rohitg00 View on GitHub →" [ref=e51] [cursor=pointer]:
+        - /url: https://github.com/rohitg00/awesome-claude-code-toolkit
+        - generic [ref=e52]: Notifications
+        - heading "Desktop Notification" [level=3] [ref=e53]
+        - paragraph [ref=e54]: Sends a native OS desktop notification on Stop and Notification events, keeping you informed without keeping Claude Code in focus.
+        - generic [ref=e55]:
+          - generic [ref=e56]: "@rohitg00"
+          - generic [ref=e57]: View on GitHub →
+      - link "Security & Policy Dangerous Command Blocker Blocks destructive shell commands like rm -rf, DROP TABLE, and force-push before they execute, acting as a last line of defence. @disler View on GitHub →" [ref=e58] [cursor=pointer]:
+        - /url: https://github.com/disler/claude-code-hooks-mastery
+        - generic [ref=e59]: Security & Policy
+        - heading "Dangerous Command Blocker" [level=3] [ref=e60]
+        - paragraph [ref=e61]: Blocks destructive shell commands like rm -rf, DROP TABLE, and force-push before they execute, acting as a last line of defence.
+        - generic [ref=e62]:
+          - generic [ref=e63]: "@disler"
+          - generic [ref=e64]: View on GitHub →
+      - link "Observability Session Activity Logger Appends a structured JSON log entry for every tool call and session event, giving you a complete audit trail of Claude's actions. @hesreallyhim View on GitHub →" [ref=e65] [cursor=pointer]:
+        - /url: https://github.com/hesreallyhim/awesome-claude-code
+        - generic [ref=e66]: Observability
+        - heading "Session Activity Logger" [level=3] [ref=e67]
+        - paragraph [ref=e68]: Appends a structured JSON log entry for every tool call and session event, giving you a complete audit trail of Claude's actions.
+        - generic [ref=e69]:
+          - generic [ref=e70]: "@hesreallyhim"
+          - generic [ref=e71]: View on GitHub →
+      - link "Productivity Clipboard Copier Copies Claude's final response to the system clipboard on each Stop event, so you can paste the output immediately without selecting it manually. @disler View on GitHub →" [ref=e72] [cursor=pointer]:
+        - /url: https://github.com/disler/claude-code-hooks-mastery
+        - generic [ref=e73]: Productivity
+        - heading "Clipboard Copier" [level=3] [ref=e74]
+        - paragraph [ref=e75]: Copies Claude's final response to the system clipboard on each Stop event, so you can paste the output immediately without selecting it manually.
+        - generic [ref=e76]:
+          - generic [ref=e77]: "@disler"
+          - generic [ref=e78]: View on GitHub →
+  - button "Open Next.js Dev Tools" [ref=e84] [cursor=pointer]:
+    - img [ref=e85]

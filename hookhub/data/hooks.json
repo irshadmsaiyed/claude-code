@@ -1,0 +1,82 @@
+[
+  {
+    "id": "prettier-format-on-save",
+    "name": "Prettier Format on Save",
+    "category": "Formatting & Linting",
+    "description": "Automatically runs Prettier on any file edited by Claude, ensuring consistent code formatting without manual intervention.",
+    "repoUrl": "https://github.com/pascalporedda/awesome-claude-code",
+    "author": "pascalporedda"
+  },
+  {
+    "id": "eslint-autofix",
+    "name": "ESLint Auto-fix",
+    "category": "Formatting & Linting",
+    "description": "Runs ESLint --fix after every PostToolUse file edit, catching linting errors before they accumulate in your codebase.",
+    "repoUrl": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+    "author": "rohitg00"
+  },
+  {
+    "id": "jest-test-runner",
+    "name": "Jest Test Runner",
+    "category": "Testing",
+    "description": "Executes the relevant Jest test suite whenever Claude modifies a source file, surfacing regressions in real time.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "git-auto-commit",
+    "name": "Git Auto-commit",
+    "category": "Git & VCS",
+    "description": "Creates a git commit with a descriptive message after each Claude session stop, giving you a full history of AI-assisted changes.",
+    "repoUrl": "https://github.com/hesreallyhim/awesome-claude-code",
+    "author": "hesreallyhim"
+  },
+  {
+    "id": "branch-protector",
+    "name": "Branch Protector",
+    "category": "Git & VCS",
+    "description": "Intercepts git push commands targeting protected branches and blocks them with a clear error, preventing accidental direct pushes to main.",
+    "repoUrl": "https://github.com/pascalporedda/awesome-claude-code",
+    "author": "pascalporedda"
+  },
+  {
+    "id": "sound-completion-alert",
+    "name": "Sound Completion Alert",
+    "category": "Notifications",
+    "description": "Plays a chime sound when Claude finishes a task, so you can step away and be notified when it's done without watching the terminal.",
+    "repoUrl": "https://github.com/varun86/awesome-claude-code-sounds",
+    "author": "varun86"
+  },
+  {
+    "id": "desktop-notification",
+    "name": "Desktop Notification",
+    "category": "Notifications",
+    "description": "Sends a native OS desktop notification on Stop and Notification events, keeping you informed without keeping Claude Code in focus.",
+    "repoUrl": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+    "author": "rohitg00"
+  },
+  {
+    "id": "dangerous-command-blocker",
+    "name": "Dangerous Command Blocker",
+    "category": "Security & Policy",
+    "description": "Blocks destructive shell commands like rm -rf, DROP TABLE, and force-push before they execute, acting as a last line of defence.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "session-activity-logger",
+    "name": "Session Activity Logger",
+    "category": "Observability",
+    "description": "Appends a structured JSON log entry for every tool call and session event, giving you a complete audit trail of Claude's actions.",
+    "repoUrl": "https://github.com/hesreallyhim/awesome-claude-code",
+    "author": "hesreallyhim"
+  },
+  {
+    "id": "clipboard-copier",
+    "name": "Clipboard Copier",
+    "category": "Productivity",
+    "description": "Copies Claude's final response to the system clipboard on each Stop event, so you can paste the output immediately without selecting it manually.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  }
+]
