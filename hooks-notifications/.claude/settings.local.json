@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(update-config)",
+      "Skill(update-config:*)"
+    ]
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run \"c:/code149/AI/claude-code/claude-code/hooks-notifications/play_sound.py\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
